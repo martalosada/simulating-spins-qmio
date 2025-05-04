@@ -1,0 +1,283 @@
+slurmstepd: info: Setting TMPDIR to /scratch/153051. Previous errors about TMPDIR can be discarded
+2025-04-26 18:52:04,938 - QmioBackend - INFO - Logging started:
+2025-04-26 18:52:04,938 - QmioBackend - INFO - Loading calibrations
+Importing calibrations from  /opt/cesga/qmio/hpc/calibrations/2025_04_25__12_00_02.json
+2025-04-26 18:52:05,017 - QmioBackend - DEBUG - Qubit:q[0], T1=0.000017060, T2=0.000032980, Drive Freq:4372600000.000000
+2025-04-26 18:52:05,017 - QmioBackend - DEBUG - Qubit:q[1], T1=0.000051113, T2=0.000031325, Drive Freq:4257400000.000000
+2025-04-26 18:52:05,017 - QmioBackend - DEBUG - Qubit:q[2], T1=0.000198150, T2=0.000067717, Drive Freq:4369200000.000000
+2025-04-26 18:52:05,017 - QmioBackend - DEBUG - Qubit:q[3], T1=0.000064902, T2=0.000079866, Drive Freq:4220000000.000000
+2025-04-26 18:52:05,017 - QmioBackend - DEBUG - Qubit:q[4], T1=0.000089475, T2=0.000036270, Drive Freq:4340900000.000000
+2025-04-26 18:52:05,017 - QmioBackend - DEBUG - Qubit:q[5], T1=0.000051410, T2=0.000440420, Drive Freq:4398500000.000000
+2025-04-26 18:52:05,017 - QmioBackend - DEBUG - Qubit:q[6], T1=0.000084455, T2=0.000069202, Drive Freq:4411400000.000000
+2025-04-26 18:52:05,017 - QmioBackend - DEBUG - Qubit:q[7], T1=0.000043277, T2=0.000024319, Drive Freq:4420600000.000000
+2025-04-26 18:52:05,017 - QmioBackend - DEBUG - Qubit:q[8], T1=0.000051384, T2=0.000066961, Drive Freq:4280400000.000000
+2025-04-26 18:52:05,017 - QmioBackend - DEBUG - Qubit:q[9], T1=0.000131290, T2=0.000035122, Drive Freq:4412900000.000000
+2025-04-26 18:52:05,017 - QmioBackend - DEBUG - Qubit:q[10], T1=0.000055156, T2=0.000069555, Drive Freq:4241300000.000000
+2025-04-26 18:52:05,017 - QmioBackend - DEBUG - Qubit:q[11], T1=0.000058181, T2=0.000187350, Drive Freq:4364900000.000000
+2025-04-26 18:52:05,017 - QmioBackend - DEBUG - Qubit:q[12], T1=0.000078071, T2=0.000093831, Drive Freq:4283200000.000000
+2025-04-26 18:52:05,017 - QmioBackend - DEBUG - Qubit:q[13], T1=0.000053118, T2=0.308620000, Drive Freq:4408600000.000000
+2025-04-26 18:52:05,017 - QmioBackend - DEBUG - Qubit:q[14], T1=0.000069303, T2=0.000055329, Drive Freq:4397800000.000000
+2025-04-26 18:52:05,017 - QmioBackend - DEBUG - Qubit:q[15], T1=0.000068489, T2=0.000337240, Drive Freq:4377400000.000000
+2025-04-26 18:52:05,018 - QmioBackend - DEBUG - Qubit:q[16], T1=0.000031011, T2=0.000066892, Drive Freq:4317300000.000000
+2025-04-26 18:52:05,018 - QmioBackend - DEBUG - Qubit:q[17], T1=0.000022248, T2=0.000044044, Drive Freq:4290900000.000000
+2025-04-26 18:52:05,018 - QmioBackend - DEBUG - Qubit:q[18], T1=0.000053143, T2=0.000042531, Drive Freq:4311000000.000000
+2025-04-26 18:52:05,018 - QmioBackend - DEBUG - Qubit:q[19], T1=0.000065835, T2=0.000175470, Drive Freq:4253800000.000000
+2025-04-26 18:52:05,018 - QmioBackend - DEBUG - Qubit:q[20], T1=0.000036338, T2=0.000070145, Drive Freq:4328000000.000000
+2025-04-26 18:52:05,018 - QmioBackend - DEBUG - Qubit:q[21], T1=0.000030128, T2=0.000069425, Drive Freq:4314300000.000000
+2025-04-26 18:52:05,018 - QmioBackend - DEBUG - Qubit:q[22], T1=0.000023128, T2=0.000027682, Drive Freq:4393400000.000000
+2025-04-26 18:52:05,018 - QmioBackend - DEBUG - Qubit:q[23], T1=0.000060672, T2=0.000073243, Drive Freq:4395400000.000000
+2025-04-26 18:52:05,018 - QmioBackend - DEBUG - Qubit:q[24], T1=0.000061806, T2=0.000032823, Drive Freq:4481600000.000000
+2025-04-26 18:52:05,018 - QmioBackend - DEBUG - Qubit:q[25], T1=0.000182770, T2=0.000272820, Drive Freq:4449500000.000000
+2025-04-26 18:52:05,018 - QmioBackend - DEBUG - Qubit:q[26], T1=0.000046513, T2=0.000034064, Drive Freq:4362500000.000000
+2025-04-26 18:52:05,018 - QmioBackend - DEBUG - Qubit:q[27], T1=0.000048489, T2=0.000098424, Drive Freq:4267200000.000000
+2025-04-26 18:52:05,018 - QmioBackend - DEBUG - Qubit:q[28], T1=0.000057142, T2=0.000094752, Drive Freq:4278900000.000000
+2025-04-26 18:52:05,018 - QmioBackend - DEBUG - Qubit:q[29], T1=0.000069418, T2=0.000149660, Drive Freq:4250900000.000000
+2025-04-26 18:52:05,018 - QmioBackend - DEBUG - Qubit:q[30], T1=0.000018844, T2=0.000072017, Drive Freq:4288500000.000000
+2025-04-26 18:52:05,018 - QmioBackend - DEBUG - Qubit:q[31], T1=0.000058430, T2=0.000071935, Drive Freq:4165700000.000000
+2025-04-26 18:52:05,018 - QmioBackend - INFO - Number of loaded qubits 32
+2025-04-26 18:52:05,018 - QmioBackend - DEBUG - Added SX[0]- Duration 0.0000000640s - error 0.024530
+2025-04-26 18:52:05,018 - QmioBackend - DEBUG - Added SX[1]- Duration 0.0000000320s - error 0.001270
+2025-04-26 18:52:05,018 - QmioBackend - DEBUG - Added SX[2]- Duration 0.0000000960s - error 0.007870
+2025-04-26 18:52:05,018 - QmioBackend - DEBUG - Added SX[3]- Duration 0.0000000320s - error 0.001900
+2025-04-26 18:52:05,018 - QmioBackend - DEBUG - Added SX[4]- Duration 0.0000000640s - error 0.000130
+2025-04-26 18:52:05,018 - QmioBackend - DEBUG - Added SX[5]- Duration 0.0000000960s - error 0.002170
+2025-04-26 18:52:05,018 - QmioBackend - DEBUG - Added SX[6]- Duration 0.0000000320s - error 0.001490
+2025-04-26 18:52:05,018 - QmioBackend - DEBUG - Added SX[7]- Duration 0.0000001280s - error 0.012880
+2025-04-26 18:52:05,019 - QmioBackend - DEBUG - Added SX[8]- Duration 0.0000000320s - error 0.000590
+2025-04-26 18:52:05,019 - QmioBackend - DEBUG - Added SX[9]- Duration 0.0000001280s - error 0.009480
+2025-04-26 18:52:05,019 - QmioBackend - DEBUG - Added SX[10]- Duration 0.0000000320s - error 0.001570
+2025-04-26 18:52:05,019 - QmioBackend - DEBUG - Added SX[11]- Duration 0.0000000320s - error 0.003140
+2025-04-26 18:52:05,019 - QmioBackend - DEBUG - Added SX[12]- Duration 0.0000000960s - error 0.001000
+2025-04-26 18:52:05,019 - QmioBackend - DEBUG - Added SX[13]- Duration 0.0000000320s - error 0.006460
+2025-04-26 18:52:05,019 - QmioBackend - DEBUG - Added SX[14]- Duration 0.0000000320s - error 0.003880
+2025-04-26 18:52:05,019 - QmioBackend - DEBUG - Added SX[15]- Duration 0.0000000320s - error 0.000100
+2025-04-26 18:52:05,019 - QmioBackend - DEBUG - Added SX[16]- Duration 0.0000000320s - error 0.000210
+2025-04-26 18:52:05,019 - QmioBackend - DEBUG - Added SX[17]- Duration 0.0000001280s - error 0.009750
+2025-04-26 18:52:05,019 - QmioBackend - DEBUG - Added SX[18]- Duration 0.0000000320s - error 0.009090
+2025-04-26 18:52:05,019 - QmioBackend - DEBUG - Added SX[19]- Duration 0.0000000320s - error 0.000000
+2025-04-26 18:52:05,019 - QmioBackend - DEBUG - Added SX[20]- Duration 0.0000000320s - error 0.000710
+2025-04-26 18:52:05,019 - QmioBackend - DEBUG - Added SX[21]- Duration 0.0000000320s - error 0.000460
+2025-04-26 18:52:05,019 - QmioBackend - DEBUG - Added SX[22]- Duration 0.0000000320s - error 0.000150
+2025-04-26 18:52:05,019 - QmioBackend - DEBUG - Added SX[23]- Duration 0.0000000320s - error 0.003650
+2025-04-26 18:52:05,019 - QmioBackend - DEBUG - Added SX[24]- Duration 0.0000000320s - error 0.012160
+2025-04-26 18:52:05,019 - QmioBackend - DEBUG - Added SX[25]- Duration 0.0000000320s - error 0.000060
+2025-04-26 18:52:05,019 - QmioBackend - DEBUG - Added SX[26]- Duration 0.0000000320s - error 0.001730
+2025-04-26 18:52:05,019 - QmioBackend - DEBUG - Added SX[27]- Duration 0.0000000960s - error 0.005080
+2025-04-26 18:52:05,019 - QmioBackend - DEBUG - Added SX[28]- Duration 0.0000000320s - error 0.011490
+2025-04-26 18:52:05,019 - QmioBackend - DEBUG - Added SX[29]- Duration 0.0000000320s - error 0.004230
+2025-04-26 18:52:05,019 - QmioBackend - DEBUG - Added SX[30]- Duration 0.0000000960s - error 0.218860
+2025-04-26 18:52:05,019 - QmioBackend - DEBUG - Added SX[31]- Duration 0.0000000320s - error 0.000620
+2025-04-26 18:52:05,019 - QmioBackend - DEBUG - Added X[0]- Duration 0.0000001280s - error 0.024530
+2025-04-26 18:52:05,019 - QmioBackend - DEBUG - Added X[1]- Duration 0.0000000640s - error 0.001270
+2025-04-26 18:52:05,019 - QmioBackend - DEBUG - Added X[2]- Duration 0.0000001920s - error 0.007870
+2025-04-26 18:52:05,019 - QmioBackend - DEBUG - Added X[3]- Duration 0.0000000640s - error 0.001900
+2025-04-26 18:52:05,020 - QmioBackend - DEBUG - Added X[4]- Duration 0.0000001280s - error 0.000130
+2025-04-26 18:52:05,020 - QmioBackend - DEBUG - Added X[5]- Duration 0.0000001920s - error 0.002170
+2025-04-26 18:52:05,020 - QmioBackend - DEBUG - Added X[6]- Duration 0.0000000640s - error 0.001490
+2025-04-26 18:52:05,020 - QmioBackend - DEBUG - Added X[7]- Duration 0.0000002560s - error 0.012880
+2025-04-26 18:52:05,020 - QmioBackend - DEBUG - Added X[8]- Duration 0.0000000640s - error 0.000590
+2025-04-26 18:52:05,020 - QmioBackend - DEBUG - Added X[9]- Duration 0.0000002560s - error 0.009480
+2025-04-26 18:52:05,020 - QmioBackend - DEBUG - Added X[10]- Duration 0.0000000640s - error 0.001570
+2025-04-26 18:52:05,020 - QmioBackend - DEBUG - Added X[11]- Duration 0.0000000640s - error 0.003140
+2025-04-26 18:52:05,020 - QmioBackend - DEBUG - Added X[12]- Duration 0.0000001920s - error 0.001000
+2025-04-26 18:52:05,020 - QmioBackend - DEBUG - Added X[13]- Duration 0.0000000640s - error 0.006460
+2025-04-26 18:52:05,020 - QmioBackend - DEBUG - Added X[14]- Duration 0.0000000640s - error 0.003880
+2025-04-26 18:52:05,020 - QmioBackend - DEBUG - Added X[15]- Duration 0.0000000640s - error 0.000100
+2025-04-26 18:52:05,020 - QmioBackend - DEBUG - Added X[16]- Duration 0.0000000640s - error 0.000210
+2025-04-26 18:52:05,020 - QmioBackend - DEBUG - Added X[17]- Duration 0.0000002560s - error 0.009750
+2025-04-26 18:52:05,020 - QmioBackend - DEBUG - Added X[18]- Duration 0.0000000640s - error 0.009090
+2025-04-26 18:52:05,020 - QmioBackend - DEBUG - Added X[19]- Duration 0.0000000640s - error 0.000000
+2025-04-26 18:52:05,020 - QmioBackend - DEBUG - Added X[20]- Duration 0.0000000640s - error 0.000710
+2025-04-26 18:52:05,020 - QmioBackend - DEBUG - Added X[21]- Duration 0.0000000640s - error 0.000460
+2025-04-26 18:52:05,020 - QmioBackend - DEBUG - Added X[22]- Duration 0.0000000640s - error 0.000150
+2025-04-26 18:52:05,020 - QmioBackend - DEBUG - Added X[23]- Duration 0.0000000640s - error 0.003650
+2025-04-26 18:52:05,020 - QmioBackend - DEBUG - Added X[24]- Duration 0.0000000640s - error 0.012160
+2025-04-26 18:52:05,020 - QmioBackend - DEBUG - Added X[25]- Duration 0.0000000640s - error 0.000060
+2025-04-26 18:52:05,020 - QmioBackend - DEBUG - Added X[26]- Duration 0.0000000640s - error 0.001730
+2025-04-26 18:52:05,020 - QmioBackend - DEBUG - Added X[27]- Duration 0.0000001920s - error 0.005080
+2025-04-26 18:52:05,020 - QmioBackend - DEBUG - Added X[28]- Duration 0.0000000640s - error 0.011490
+2025-04-26 18:52:05,020 - QmioBackend - DEBUG - Added X[29]- Duration 0.0000000640s - error 0.004230
+2025-04-26 18:52:05,020 - QmioBackend - DEBUG - Added X[30]- Duration 0.0000001920s - error 0.218860
+2025-04-26 18:52:05,021 - QmioBackend - DEBUG - Added X[31]- Duration 0.0000000640s - error 0.000620
+2025-04-26 18:52:05,021 - QmioBackend - DEBUG - Added rz[0]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,021 - QmioBackend - DEBUG - Added rz[1]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,021 - QmioBackend - DEBUG - Added rz[2]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,021 - QmioBackend - DEBUG - Added rz[3]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,021 - QmioBackend - DEBUG - Added rz[4]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,021 - QmioBackend - DEBUG - Added rz[5]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,021 - QmioBackend - DEBUG - Added rz[6]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,021 - QmioBackend - DEBUG - Added rz[7]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,021 - QmioBackend - DEBUG - Added rz[8]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,021 - QmioBackend - DEBUG - Added rz[9]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,021 - QmioBackend - DEBUG - Added rz[10]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,021 - QmioBackend - DEBUG - Added rz[11]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,021 - QmioBackend - DEBUG - Added rz[12]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,021 - QmioBackend - DEBUG - Added rz[13]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,021 - QmioBackend - DEBUG - Added rz[14]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,021 - QmioBackend - DEBUG - Added rz[15]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,021 - QmioBackend - DEBUG - Added rz[16]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,021 - QmioBackend - DEBUG - Added rz[17]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,021 - QmioBackend - DEBUG - Added rz[18]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,021 - QmioBackend - DEBUG - Added rz[19]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,021 - QmioBackend - DEBUG - Added rz[20]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,021 - QmioBackend - DEBUG - Added rz[21]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,021 - QmioBackend - DEBUG - Added rz[22]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,021 - QmioBackend - DEBUG - Added rz[23]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,022 - QmioBackend - DEBUG - Added rz[24]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,022 - QmioBackend - DEBUG - Added rz[25]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,022 - QmioBackend - DEBUG - Added rz[26]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,022 - QmioBackend - DEBUG - Added rz[27]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,022 - QmioBackend - DEBUG - Added rz[28]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,022 - QmioBackend - DEBUG - Added rz[29]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,022 - QmioBackend - DEBUG - Added rz[30]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,022 - QmioBackend - DEBUG - Added rz[31]- Duration 0.0000000000s - error 0.000000
+2025-04-26 18:52:05,022 - QmioBackend - DEBUG - Added ecr_inst[(0,1) - duration 0.0000004160s - error 0.103090]
+2025-04-26 18:52:05,022 - QmioBackend - DEBUG - Added ecr_inst[(2,1) - duration 0.0000007680s - error 0.082720]
+2025-04-26 18:52:05,022 - QmioBackend - DEBUG - Added ecr_inst[(2,3) - duration 0.0000007680s - error 0.058650]
+2025-04-26 18:52:05,022 - QmioBackend - DEBUG - Added ecr_inst[(4,3) - duration 0.0000004160s - error 0.022700]
+2025-04-26 18:52:05,022 - QmioBackend - DEBUG - Added ecr_inst[(5,4) - duration 0.0000005440s - error 0.023750]
+2025-04-26 18:52:05,022 - QmioBackend - DEBUG - Added ecr_inst[(6,3) - duration 0.0000005920s - error 0.000000]
+2025-04-26 18:52:05,022 - QmioBackend - DEBUG - Added ecr_inst[(6,12) - duration 0.0000003520s - error 0.025100]
+2025-04-26 18:52:05,022 - QmioBackend - DEBUG - Added ecr_inst[(7,0) - duration 0.0000005440s - error 0.511950]
+2025-04-26 18:52:05,022 - QmioBackend - DEBUG - Added ecr_inst[(7,9) - duration 0.0000006720s - error 0.218230]
+2025-04-26 18:52:05,022 - QmioBackend - DEBUG - Added ecr_inst[(9,10) - duration 0.0000006240s - error 0.625490]
+2025-04-26 18:52:05,022 - QmioBackend - DEBUG - Added ecr_inst[(11,10) - duration 0.0000003520s - error 0.018180]
+2025-04-26 18:52:05,022 - QmioBackend - DEBUG - Added ecr_inst[(11,12) - duration 0.0000004160s - error 0.021630]
+2025-04-26 18:52:05,022 - QmioBackend - DEBUG - Added ecr_inst[(13,21) - duration 0.0000004480s - error 0.074940]
+2025-04-26 18:52:05,022 - QmioBackend - DEBUG - Added ecr_inst[(14,11) - duration 0.0000003200s - error 0.020490]
+2025-04-26 18:52:05,022 - QmioBackend - DEBUG - Added ecr_inst[(14,18) - duration 0.0000004960s - error 0.105910]
+2025-04-26 18:52:05,022 - QmioBackend - DEBUG - Added ecr_inst[(15,8) - duration 0.0000006400s - error 0.016660]
+2025-04-26 18:52:05,022 - QmioBackend - DEBUG - Added ecr_inst[(15,16) - duration 0.0000006400s - error 0.020870]
+2025-04-26 18:52:05,023 - QmioBackend - DEBUG - Added ecr_inst[(18,17) - duration 0.0000004000s - error 0.596050]
+2025-04-26 18:52:05,023 - QmioBackend - DEBUG - Added ecr_inst[(18,19) - duration 0.0000003520s - error 0.017670]
+2025-04-26 18:52:05,023 - QmioBackend - DEBUG - Added ecr_inst[(20,19) - duration 0.0000003520s - error 0.014510]
+2025-04-26 18:52:05,023 - QmioBackend - DEBUG - Added ecr_inst[(22,21) - duration 0.0000003520s - error 0.013990]
+2025-04-26 18:52:05,023 - QmioBackend - DEBUG - Added ecr_inst[(22,31) - duration 0.0000006400s - error 0.023310]
+2025-04-26 18:52:05,023 - QmioBackend - DEBUG - Added ecr_inst[(23,20) - duration 0.0000003520s - error 0.012100]
+2025-04-26 18:52:05,023 - QmioBackend - DEBUG - Added ecr_inst[(23,30) - duration 0.0000003520s - error 0.487480]
+2025-04-26 18:52:05,023 - QmioBackend - DEBUG - Added ecr_inst[(24,17) - duration 0.0000006720s - error 1.000000]
+2025-04-26 18:52:05,023 - QmioBackend - DEBUG - Added ecr_inst[(24,27) - duration 0.0000007040s - error 0.089310]
+2025-04-26 18:52:05,023 - QmioBackend - DEBUG - Added ecr_inst[(25,16) - duration 0.0000003520s - error 0.014020]
+2025-04-26 18:52:05,023 - QmioBackend - DEBUG - Added ecr_inst[(25,26) - duration 0.0000004160s - error 0.021310]
+2025-04-26 18:52:05,023 - QmioBackend - DEBUG - Added ecr_inst[(26,27) - duration 0.0000006720s - error 0.027700]
+2025-04-26 18:52:05,023 - QmioBackend - DEBUG - Added ecr_inst[(28,27) - duration 0.0000006400s - error 0.157410]
+2025-04-26 18:52:05,023 - QmioBackend - DEBUG - Added ecr_inst[(28,29) - duration 0.0000005120s - error 0.055750]
+2025-04-26 18:52:05,023 - QmioBackend - DEBUG - Added ecr_inst[(30,29) - duration 0.0000004800s - error 0.051520]
+2025-04-26 18:52:05,023 - QmioBackend - DEBUG - Added ecr_inst[(30,31) - duration 0.0000004800s - error 0.029750]
+2025-04-26 18:52:05,023 - QmioBackend - DEBUG - measures[0] - duration 0.0000028599s - error 0.376200
+2025-04-26 18:52:05,023 - QmioBackend - DEBUG - measures[1] - duration 0.0000057492s - error 0.093800
+2025-04-26 18:52:05,023 - QmioBackend - DEBUG - measures[2] - duration 0.0000103540s - error 0.088700
+2025-04-26 18:52:05,023 - QmioBackend - DEBUG - measures[3] - duration 0.0000056687s - error 0.084200
+2025-04-26 18:52:05,023 - QmioBackend - DEBUG - measures[4] - duration 0.0000059770s - error 0.275600
+2025-04-26 18:52:05,023 - QmioBackend - DEBUG - measures[5] - duration 0.0000160000s - error 0.102200
+2025-04-26 18:52:05,023 - QmioBackend - DEBUG - measures[6] - duration 0.0000061752s - error 0.059000
+2025-04-26 18:52:05,024 - QmioBackend - DEBUG - measures[7] - duration 0.0000120000s - error 0.189500
+2025-04-26 18:52:05,024 - QmioBackend - DEBUG - measures[8] - duration 0.0000106760s - error 0.085600
+2025-04-26 18:52:05,024 - QmioBackend - DEBUG - measures[9] - duration 0.0000079825s - error 0.125300
+2025-04-26 18:52:05,024 - QmioBackend - DEBUG - measures[10] - duration 0.0000120000s - error 0.075100
+2025-04-26 18:52:05,024 - QmioBackend - DEBUG - measures[11] - duration 0.0000091887s - error 0.118900
+2025-04-26 18:52:05,024 - QmioBackend - DEBUG - measures[12] - duration 0.0000053809s - error 0.069600
+2025-04-26 18:52:05,024 - QmioBackend - DEBUG - measures[13] - duration 0.0000059680s - error 0.058300
+2025-04-26 18:52:05,024 - QmioBackend - DEBUG - measures[14] - duration 0.0000146040s - error 0.112500
+2025-04-26 18:52:05,024 - QmioBackend - DEBUG - measures[15] - duration 0.0000134550s - error 0.068800
+2025-04-26 18:52:05,024 - QmioBackend - DEBUG - measures[16] - duration 0.0000049434s - error 0.048800
+2025-04-26 18:52:05,024 - QmioBackend - DEBUG - measures[17] - duration 0.0000180000s - error 0.446200
+2025-04-26 18:52:05,024 - QmioBackend - DEBUG - measures[18] - duration 0.0000126330s - error 0.221600
+2025-04-26 18:52:05,024 - QmioBackend - DEBUG - measures[19] - duration 0.0000049895s - error 0.067600
+2025-04-26 18:52:05,024 - QmioBackend - DEBUG - measures[20] - duration 0.0000069810s - error 0.071700
+2025-04-26 18:52:05,024 - QmioBackend - DEBUG - measures[21] - duration 0.0000049550s - error 0.104500
+2025-04-26 18:52:05,024 - QmioBackend - DEBUG - measures[22] - duration 0.0000091221s - error 0.093200
+2025-04-26 18:52:05,024 - QmioBackend - DEBUG - measures[23] - duration 0.0000100550s - error 0.105600
+2025-04-26 18:52:05,024 - QmioBackend - DEBUG - measures[24] - duration 0.0000148670s - error 0.273600
+2025-04-26 18:52:05,024 - QmioBackend - DEBUG - measures[25] - duration 0.0000160000s - error 0.077100
+2025-04-26 18:52:05,024 - QmioBackend - DEBUG - measures[26] - duration 0.0000119190s - error 0.126000
+2025-04-26 18:52:05,024 - QmioBackend - DEBUG - measures[27] - duration 0.0000048283s - error 0.063900
+2025-04-26 18:52:05,024 - QmioBackend - DEBUG - measures[28] - duration 0.0000129740s - error 0.108500
+2025-04-26 18:52:05,024 - QmioBackend - DEBUG - measures[29] - duration 0.0000095020s - error 0.110000
+2025-04-26 18:52:05,024 - QmioBackend - DEBUG - measures[30] - duration 0.0000096286s - error 0.152300
+2025-04-26 18:52:05,024 - QmioBackend - DEBUG - measures[31] - duration 0.0000120000s - error 0.102200
+2025-04-26 18:52:05,025 - QmioBackend - INFO - Default options Options(shots=8192, memory=False, repetition_period=None, res_format='binary_count')
+2025-04-26 18:52:05,025 - QmioBackend - INFO - VERSION 0.1.3
+2025-04-26 18:52:05,025 - QmioBackend - INFO - MAX CIRCUITS 1000
+2025-04-26 18:52:05,025 - QmioBackend - INFO - MAX SHOTS PER STEP 8192
+2025-04-26 18:52:05,025 - QmioBackend - INFO - MAX SHOTS PER JOB 8192000
+creating circuit for t=0.0...
+circuit transpiled.
+global phase: 3π/2
+                                                                   
+  ancilla_0 -> 0 ──────────────────────────────────────────────────
+                                                                   
+  ancilla_1 -> 1 ──────────────────────────────────────────────────
+                                                                   
+  ancilla_2 -> 2 ──────────────────────────────────────────────────
+                                                                   
+  ancilla_3 -> 3 ──────────────────────────────────────────────────
+                                                                   
+  ancilla_4 -> 4 ──────────────────────────────────────────────────
+                                                                   
+  ancilla_5 -> 5 ──────────────────────────────────────────────────
+                  ░ ┌─────────┐   ┌────┐   ┌──────────┐ ░       ┌─┐
+        q_2 -> 6 ─░─┤ Rz(π/2) ├───┤ √X ├───┤ Rz(-π/2) ├─░───────┤M├
+                  ░ └─────────┘   └────┘   └──────────┘ ░       └╥┘
+  ancilla_6 -> 7 ────────────────────────────────────────────────╫─
+                                                                 ║ 
+  ancilla_7 -> 8 ────────────────────────────────────────────────╫─
+                                                                 ║ 
+  ancilla_8 -> 9 ────────────────────────────────────────────────╫─
+                                                                 ║ 
+ ancilla_9 -> 10 ────────────────────────────────────────────────╫─
+                                                                 ║ 
+ancilla_10 -> 11 ────────────────────────────────────────────────╫─
+                                                                 ║ 
+ancilla_11 -> 12 ────────────────────────────────────────────────╫─
+                                                                 ║ 
+ancilla_12 -> 13 ────────────────────────────────────────────────╫─
+                                                                 ║ 
+ancilla_13 -> 14 ────────────────────────────────────────────────╫─
+                                                                 ║ 
+ancilla_14 -> 15 ────────────────────────────────────────────────╫─
+                  ░                                     ░ ┌─┐    ║ 
+       q_0 -> 16 ─░─────────────────────────────────────░─┤M├────╫─
+                  ░                                     ░ └╥┘    ║ 
+ancilla_15 -> 17 ──────────────────────────────────────────╫─────╫─
+                                                           ║     ║ 
+ancilla_16 -> 18 ──────────────────────────────────────────╫─────╫─
+                  ░    ┌────┐  ┌──────────┐             ░  ║ ┌─┐ ║ 
+       q_1 -> 19 ─░────┤ √X ├──┤ Rz(-π/2) ├─────────────░──╫─┤M├─╫─
+                  ░    └────┘  └──────────┘             ░  ║ └╥┘ ║ 
+ancilla_17 -> 20 ──────────────────────────────────────────╫──╫──╫─
+                                                           ║  ║  ║ 
+ancilla_18 -> 21 ──────────────────────────────────────────╫──╫──╫─
+                                                           ║  ║  ║ 
+ancilla_19 -> 22 ──────────────────────────────────────────╫──╫──╫─
+                                                           ║  ║  ║ 
+ancilla_20 -> 23 ──────────────────────────────────────────╫──╫──╫─
+                                                           ║  ║  ║ 
+ancilla_21 -> 24 ──────────────────────────────────────────╫──╫──╫─
+                                                           ║  ║  ║ 
+ancilla_22 -> 25 ──────────────────────────────────────────╫──╫──╫─
+                                                           ║  ║  ║ 
+ancilla_23 -> 26 ──────────────────────────────────────────╫──╫──╫─
+                                                           ║  ║  ║ 
+ancilla_24 -> 27 ──────────────────────────────────────────╫──╫──╫─
+                                                           ║  ║  ║ 
+ancilla_25 -> 28 ──────────────────────────────────────────╫──╫──╫─
+                                                           ║  ║  ║ 
+ancilla_26 -> 29 ──────────────────────────────────────────╫──╫──╫─
+                                                           ║  ║  ║ 
+ancilla_27 -> 30 ──────────────────────────────────────────╫──╫──╫─
+                                                           ║  ║  ║ 
+ancilla_28 -> 31 ──────────────────────────────────────────╫──╫──╫─
+                                                           ║  ║  ║ 
+            c: 3/══════════════════════════════════════════╩══╩══╩═
+                                                           0  1  2 
+2025-04-26 18:52:07,633 - QmioBackend - INFO - Requested parameters: Shots 1000 - memory False - Repetition_period None - Res_format binary_count
+2025-04-26 18:52:07,633 - QmioBackend - DEBUG - Starting backend
+2025-04-26 18:52:07,657 - QmioBackend - DEBUG - Job id 7c0aae8f-865e-4115-8516-5d68a4a9f6cc
+2025-04-26 18:52:07,658 - QmioBackend - DEBUG - Obtainded QASM from circuit:OPENQASM 3.0;bit[3] c;barrier $16, $19, $6;rz(pi/2) $6;sx $6;rz(-pi/2) $6;sx $19;rz(-pi/2) $19;barrier $16, $19, $6;c[0] = measure $16;c[1] = measure $19;c[2] = measure $6;
+2025-04-26 18:52:07,658 - QmioBackend - INFO - Replacing SC gate by RX(pi/2) as a temporal fix
+2025-04-26 18:52:07,658 - QmioBackend - DEBUG - Final submitted circuit OPENQASM 3.0;bit[3] c;barrier $20, $23, $8;rz(pi/2) $8;rx(pi/2)$8;rz(-pi/2) $8;rx(pi/2)$23;rz(-pi/2) $23;barrier $20, $23, $8;c[0] = measure $20;c[1] = measure $23;c[2] = measure $8;
+2025-04-26 18:52:07,658 - QmioBackend - INFO - QASM to execute OPENQASM 3.0;bit[3] c;barrier $20, $23, $8;rz(pi/2) $8;rx(pi/2)$8;rz(-pi/2) $8;rx(pi/2)$23;rz(-pi/2) $23;barrier $20, $23, $8;c[0] = measure $20;c[1] = measure $23;c[2] = measure $8;
+2025-04-26 18:52:07,658 - QmioBackend - INFO - Requesting SHOTS=1000
+2025-04-26 18:52:39,835 - QmioBackend - DEBUG - Results:{'Exception': 'ConnectionError("FPGA card #11 is stuck in \'Waiting for Trigger state\'")'}
+2025-04-26 18:52:39,837 - QmioBackend - DEBUG - Deleting instance of QmioBackend
